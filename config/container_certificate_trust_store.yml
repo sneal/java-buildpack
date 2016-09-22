@@ -15,4 +15,4 @@
 
 # Container certificate truststore configuration
 ---
-enabled: false
+enabled: true
